@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/andr3felipe](https://github.com/andr3felipe)
+- 👨‍💻 All of my projects are available at [https://github.com/andr3felipe/projects](https://github.com/andr3felipe/projects)
 
 - 📫 How to reach me **https://www.linkedin.com/in/andr3felipe/**
 
